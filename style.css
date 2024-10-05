@@ -32,6 +32,11 @@ body {
     margin: 25px 25px 35px;
 }
 
+#display {
+  color: dodgerblue;
+  font-weight: 300;
+}
+
 
 /* Responsiveness */
 @media screen and (max-width: 460px) {
